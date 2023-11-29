@@ -36,3 +36,6 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 
 ## **License**
 This project is licensed under the MIT License.
+
+## **Project inspired by**
+[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
